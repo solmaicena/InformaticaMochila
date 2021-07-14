@@ -1,0 +1,20 @@
+Dirección IP Pública:
+     IPv6: 2800:810:484:82cc:9d09:8deb:4562:c840
+     IPv4: 200.125.95.161
+     Máscara de Subred: 255.255.255.0
+
+Dirección IP Privada:
+     IPv6: 2800:810:484:82cc:13b:a5c3:b09:a647
+     IPv6 Temporal: 2800:810:484:82cc:9d09:8deb:4562:c840
+     IPv4: 192.168.0.17
+     Máscara de Subred: 255.255.255.0
+
+Dirección MAC: 
+     Ethernet: 80-FA-5B-3C-6D-C7
+     LAN *1: 30-E3-7A-13-A4-EE
+     LAN *10: 32-E3-7A-13-A4-ED
+     LAN *wifi: 30-E3-7A-13-A4-ED
+
+Mis direcciones IP, tanto la pública como las privadas son de Clase C.
+Según mi dirección MAC del wifi y la *1 tengo una placa de red Intel Corporate.
+Según la de Ethernet tengo una CLEVO CO.
